@@ -1,6 +1,6 @@
 # Русификатор COMSOL-Multiphysics
 Русификатор COMSOL Multiphysics (только для модуля Pressure Acoustic, Frequency domain).
-Русификация произведена в рамках университетской практики, с соблюдением авторских прав.
+Русификация произведена в рамках университетской практики, с соблюдением авторских прав. Перевод любительский и неполный.
 
 ## Как установить:
 
@@ -11,7 +11,7 @@
 
 # COMSOL-Multiphysics-Russifier
 COMSOL Multiphysics Russifier (Pressure Acoustic, Frequency domain module only).
-Russification was made within the framework of university practice, in compliance with copyright.
+Russification was made within the framework of university practice, in compliance with copyright. The translation is non-professional and incomplete.
 
 ## How to install:
 
