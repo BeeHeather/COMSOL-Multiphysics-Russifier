@@ -6,7 +6,7 @@
 
 1. Откройте папку с плагинами (C:\Program Files\COMSOL\COMSOL60\Multiphysics\plugins) и вставьте сюда файл с заменой.
 2. Откройте «File ->  Preferences -> General» в COMSOL. Измените язык на «Korean».
-3. Наслаждайтесь!
+3. Готово
 
 
 # COMSOL-Multiphysics-Russifier
