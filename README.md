@@ -4,7 +4,7 @@
 
 ## Как установить:
 
-1. Откройте папку с плагинами (C:\Program Files\COMSOL\COMSOL60\Multiphysics\plugins) и вставьте сюда файл "com.comsol.resources_1.0.0.jar" с заменой.
+1. Откройте папку с плагинами (C:\Program Files\COMSOL\COMSOL60\Multiphysics\plugins) и переместите сюда файл "com.comsol.resources_1.0.0.jar" с заменой.
 2. Откройте «File ->  Preferences -> General» в COMSOL. Измените язык на «Korean».
 3. Готово
 
